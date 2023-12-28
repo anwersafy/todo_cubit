@@ -1,0 +1,162 @@
+{
+  "project_info": {
+    "project_number": "832050174146",
+    "project_id": "todo-c30a8",
+    "storage_bucket": "todo-c30a8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:832050174146:android:449a08ba82996dc2fe835b",
+        "android_client_info": {
+          "package_name": "com.eduardofanis.todo_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDTNLrNQPD97kPLJMmEb9ZC0_C2kLO7yJo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:832050174146:android:9a4326738e2cba8cfe835b",
+        "android_client_info": {
+          "package_name": "com.example.flutter_to_do_list"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDTNLrNQPD97kPLJMmEb9ZC0_C2kLO7yJo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:832050174146:android:364967c8291332f2fe835b",
+        "android_client_info": {
+          "package_name": "com.example.taskapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDTNLrNQPD97kPLJMmEb9ZC0_C2kLO7yJo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:832050174146:android:79d500ab8c762453fe835b",
+        "android_client_info": {
+          "package_name": "com.example.todo_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDTNLrNQPD97kPLJMmEb9ZC0_C2kLO7yJo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:832050174146:android:a6d65dfef0e191a8fe835b",
+        "android_client_info": {
+          "package_name": "com.example.todo_app_trial"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDTNLrNQPD97kPLJMmEb9ZC0_C2kLO7yJo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:832050174146:android:f5018b3c464fac6cfe835b",
+        "android_client_info": {
+          "package_name": "com.example.todo_cubit"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDTNLrNQPD97kPLJMmEb9ZC0_C2kLO7yJo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:832050174146:android:50de848af2098e83fe835b",
+        "android_client_info": {
+          "package_name": "com.example.todo_firebse"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDTNLrNQPD97kPLJMmEb9ZC0_C2kLO7yJo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:832050174146:android:2d03e5fec3aecf32fe835b",
+        "android_client_info": {
+          "package_name": "com.example.todo_list_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDTNLrNQPD97kPLJMmEb9ZC0_C2kLO7yJo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
